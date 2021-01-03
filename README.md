@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nasir Iqbal</h1>
-<h3 align="center">A passionate FullStack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Rida Hamid</h1>
+<h3 align="center">A passionate Developer from Pakistan</h3>
 
 
 
