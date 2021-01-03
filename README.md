@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://www.instagram.com/devrida.py/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rida_dev" /></a> </p>
 
 <p align="left"> <a href="https://www.youtube.com/channel/UCdQyUbV_AbH9ktgBmCNtLrg" target="blank"><img src="https://img.shields.io/youtube/views/n05KN38jNxU?logo=youtube&style=for-the-badge" alt="RidaHamid" /></a> </p>
+
 - 🔭 I’m currently working on **Python, Django, Webscrapping and Data Analysis**
 
 - 🌱 I’m currently learning **Data Analysis and Deep Learning**
