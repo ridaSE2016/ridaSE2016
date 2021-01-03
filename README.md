@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Deep Learning**
 
-- 👨‍💻 Some of my old projects are available at [https://ridase2016.github.io/portfolio-Rida-Hamid/index.html](https://ridase2016.github.io/portfolio-Rida-Hamid/index.html)
+- 👨‍💻 Some of my old projects are available at [https://ridase2016.github.io/Rida/](https://ridase2016.github.io/Rida/)
 
 - 💬 Ask me about **Django**
 
