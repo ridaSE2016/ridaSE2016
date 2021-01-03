@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rida Hamid</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h3 align="center">A passionate Developer and Datascience enthusiast from Pakistan</h3>
 
 
 
-<p align="left"> <a href="https://twitter.com/RidaHamid14" target="blank"><img src="https://img.shields.io/twitter/follow/rida_dev?logo=twitter&style=for-the-badge" alt="rida_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RidaHamid14" target="blank"><img src="https://img.shields.io/twitter/follow/RidaHamid14?logo=twitter&style=for-the-badge" alt="rida_dev" /></a> </p>
 <p align="left"> <a href="https://www.instagram.com/devrida.py/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rida_dev" /></a> </p>
 
-<p align="left"> <a href="https://www.youtube.com/channel/UCdQyUbV_AbH9ktgBmCNtLrg" target="blank"><img src="https://img.shields.io/youtube/views/n05KN38jNxU?logo=youtube&style=for-the-badge" alt="Rida_dev" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/channel/UCdQyUbV_AbH9ktgBmCNtLrg" target="blank"><img src="https://img.shields.io/youtube/views/n05KN38jNxU?logo=youtube&style=for-the-badge" alt="RidaHamid" /></a> </p>
 - 🔭 I’m currently working on **Python, Django, Webscrapping and Data Analysis**
 
 - 🌱 I’m currently learning **Data Analysis and Deep Learning**
