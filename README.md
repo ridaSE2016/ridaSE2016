@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida Hamid</h1>
-<h3 align="center">A passionate Developer and Datascience enthusiast from Pakistan</h3>
+<h3 align="center">A passionate Python Developer and Datascience enthusiast from Pakistan</h3>
 
 
 
