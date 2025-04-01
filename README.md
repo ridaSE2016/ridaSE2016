@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **Python, Django, Webscrapping and Data Analysis**
+- 🔭 I’m currently working on **Tableau, PowerBI, Alteryx, SQL and d3**
 
-- 🌱 I’m currently learning **Data Analysis and Deep Learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 Some of my old projects are available at [https://ridase2016.github.io/Rida/](https://ridase2016.github.io/Rida/)
 
