@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Tableau, PowerBI, Alteryx, SQL and d3**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis** https://ridase2016.github.io/DatavizSpecialist/
 
-- 👨‍💻 Some of my old projects are available at [https://ridase2016.github.io/Rida/](https://ridase2016.github.io/Rida/)
+- 👨‍💻 Some of my old projects are available at [https://ridase2016.github.io/DatavizSpecialist/](https://ridase2016.github.io/DatavizSpecialist/)
 
 - 💬 Ask me about **Django**
 
